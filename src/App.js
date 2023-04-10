@@ -342,7 +342,7 @@ function get_all_nfts(){
                 <s.TextTitle
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  1 STEFFAN NFT ONLY 1 BNB.
+                  1 STEFFAN NFT ONLY 0.1 BNB.
                 </s.TextTitle>
                 <s.SpacerXSmall />
                 <s.TextDescription
